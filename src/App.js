@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Register from "./components/posts/register/Register";
 import Login from "./components/posts/login/Login";
 function App() {
-  const user = false;
+  const user = true;
   return (
     <div className="App">
       <Router>
