@@ -9,7 +9,7 @@ export default function SideBar() {
         <img
           className="sidebarImg"
           src="https://images.pexels.com/photos/15202477/pexels-photo-15202477/free-photo-of-portrait-of-girl-in-hat-and-with-sunflowers.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-          alt="image"
+          alt=""
         />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit iure
